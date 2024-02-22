@@ -4,18 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d288699-113f-4ed1-a4ac-ee35c0642c9d" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tema_4_2_Strings.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ej10/Ejercicio10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ej11/Ejercicio11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ej12/Ejercicio12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ej13/Ejercicio13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ej14/Ejercicio14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ej9/Ejercicio9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ej9/Ejercicio9.java" afterDir="false" />
+    <list default="true" id="5d288699-113f-4ed1-a4ac-ee35c0642c9d" name="Changes" comment="Terminados más ejercicios">
+      <change afterPath="$PROJECT_DIR$/src/ej15/Ejercicio15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ej15/Ejercicio16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ej17/Ejercicio17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ej18/Ejercicio18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ej19/Ejercicio19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ej20/Ejercicio20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ej14/Ejercicio14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ej14/Ejercicio14.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +45,13 @@
     "Application.Ejercicio11.executor": "Run",
     "Application.Ejercicio12.executor": "Run",
     "Application.Ejercicio13.executor": "Run",
+    "Application.Ejercicio14.executor": "Run",
+    "Application.Ejercicio15.executor": "Run",
+    "Application.Ejercicio17.executor": "Run",
+    "Application.Ejercicio18.executor": "Run",
+    "Application.Ejercicio19.executor": "Run",
     "Application.Ejercicio2.executor": "Run",
+    "Application.Ejercicio20.executor": "Run",
     "Application.Ejercicio4.executor": "Run",
     "Application.Ejercicio5.executor": "Run",
     "Application.Ejercicio6.executor": "Run",
@@ -93,7 +96,10 @@
       <workItem from="1707995378516" duration="2715000" />
       <workItem from="1708033874398" duration="188000" />
       <workItem from="1708274045709" duration="3678000" />
-      <workItem from="1708418886114" duration="2541000" />
+      <workItem from="1708418886114" duration="3599000" />
+      <workItem from="1708430966931" duration="2539000" />
+      <workItem from="1708500174331" duration="5040000" />
+      <workItem from="1708628452187" duration="2093000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -103,7 +109,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708034014935</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Terminados más ejercicios">
+      <option name="closed" value="true" />
+      <created>1708421881692</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708421881692</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,6 +125,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="Terminados más ejercicios" />
+    <option name="LAST_COMMIT_MESSAGE" value="Terminados más ejercicios" />
   </component>
 </project>

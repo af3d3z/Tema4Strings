@@ -11,7 +11,7 @@ public class Ejercicio14 {
         Scanner sc = new Scanner(System.in);
 
         System.out.println("Introduce una frase:");
-        frase = sc.nextLine().toCharArray();
+        frase = sc.nextLine().toLowerCase().toCharArray();
         // ordenamos el array de carácteres
         Arrays.sort(frase);
 
